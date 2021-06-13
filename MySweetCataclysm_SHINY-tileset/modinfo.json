@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "MSC_SHINY_tileset",
+    "name": "My Sweet Cataclysm - UDP SHINY Tileset",
+    "authors": [ "SomeDeadGuy", "cwicke" ],
+    "description": "UDP SHINY graphics for MySweet Cataclysm",
+    "category": "graphical",
+    "dependencies": [ "my_sweet_cataclysm" ]
+  }
+]
